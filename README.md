@@ -22,4 +22,4 @@ Feel free to contribute to fix any problems, or to submit an issue!
 
 Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
-<h4>For any kind of problem , just feel free to contact at (sayeedhatim@gmail.com)</h4>
+<h4>Any further query? just feel free to contact at (me@sayeedhossain.com)</h4>
